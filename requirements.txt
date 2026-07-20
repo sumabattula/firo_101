@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+openpyxl
+xlrd
+jupyter
+nbconvert
+ipykernel
