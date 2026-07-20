@@ -7,7 +7,7 @@
 # The notebook already has a GitHub-fallback for the CDEC (observed) data,
 # but that fallback points at a suzanatimilsina/Hydrolearn_FIRO repo, not
 # this one -- worth checking that URL still exists if you rely on it.
-name: Run FIRO Notebook
+name: Run FIRO Notebook 
 
 on:
   push:
