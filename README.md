@@ -4,7 +4,7 @@ A HydroLearn module notebook that walks through a forecast-informed reservoir
 operations (FIRO) analysis for Lake Mendocino (station `LAMC1`), using CNRFC
 HEFS ensemble forecasts and CDEC observed storage/outflow data.
 
-**Authors:** Sujana Timilsina, Suma Bhanu Batulla
+**Authors:** Sujana Timilsina, Suma Bhanu Battula
 
 ## What's in this repo
 
